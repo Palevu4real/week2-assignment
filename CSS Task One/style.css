@@ -1,0 +1,43 @@
+h1{font-family: 'Big Shoulders Display', cursive;
+    font-size: 45px; 
+    color:white;
+
+text-transform: uppercase;
+}
+
+
+p, button{font-family: 'Lexend Deca', sans-serif;
+
+}
+
+.Luxury{background-color:hsl(179, 100%, 13%);padding:50px 45px;height:600px; width: 450px}
+
+.SUV{ background-color:hsl(184, 100%, 22%);padding:50px 45px;height:600px; width: 450px}
+
+.container{padding:50px 45px;
+    
+    height:600px; width: 450px; background-color: hsl(31, 77%, 52%)}
+
+
+    
+p{font-size: 15px;  
+    color:hsla(0, 0%, 100%, 0.75)}
+
+
+button{padding: 18px 38px;
+     font-size: 15px;
+
+     border-radius:30px; 
+     background-color:hsl(0, 0%, 95%); 
+     
+     color:hsl(31, 77%, 52%);
+    margin-top: 250px; margin-left: 50px;}
+
+    .Luxuryb{color:hsl(179, 100%, 13%) ; }
+    .suvb{color: hsl(184, 100%, 22%);}
+
+    .love-heart{color: brown;}
+
+    .flex-container{display: flex;}
+    @media(max-width:450px){
+     } .flex-container{flex-direction: column;}
